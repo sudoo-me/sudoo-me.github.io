@@ -1,9 +1,0 @@
-title: Sudoo's Blog
-description: >-
-  Welcome to my personal blog.
-baseurl: ""
-url: "https://www.sudoo.me"
-
-theme: jekyll-theme-hacker
-
-markdown: kramdown
