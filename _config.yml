@@ -1,10 +1,10 @@
 title: Sudoo's Blog
 description: >-
   Welcome to my personal blog.
-baseurl: "" 
+baseurl: ""
 url: "https://www.sudoo.me"
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
