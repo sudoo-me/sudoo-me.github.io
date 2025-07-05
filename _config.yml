@@ -6,12 +6,4 @@ url: "https://www.sudoo.me"
 
 theme: jekyll-theme-hacker
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-collections:
-  posts:
-    output: true
-
 markdown: kramdown
