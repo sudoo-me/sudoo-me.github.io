@@ -4,7 +4,7 @@ description: >-
 baseurl: ""
 url: "https://www.sudoo.me"
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
