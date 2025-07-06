@@ -2462,7 +2462,7 @@ s {
 .search-modal .card {
   position: relative;
   width: 60dvw;
-  max-width: 720px;
+  max-width: 1920px/3;
   height: 60dvh;
   margin-left: auto;
   margin-right: auto;
